@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/MTYApp.ipa</string>
+					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/MTYApp.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg</string>
+					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg</string>
+					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
