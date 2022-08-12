@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/iCodingBoy_admin/ipa/blob/master/ipa.jpg</string>
+					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/iCodingBoy_admin/ipa/blob/master/ipa.jpg</string>
+					<string>https://github.com/iCodingBoyy/ipaInstall/blob/main/ipa.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>AP配网优化测试</string>
+				<string>AP配网优化</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
