@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>AP配网优化测试</string>
+				<string>TestDemo1</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
